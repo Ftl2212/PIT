@@ -16,7 +16,7 @@ Atividade elaborada para a disciplina Projeto Integrador Transdisciplinar em Eng
     - [Features Frontend:](#features-frontend)
   - [Dados](#dados)
     - [Postgres](#postgres)
-    - [Diagrama de Relação de Entidade](#diagrama-de-relação-de-entidade)
+    - [Diagrama de Relação de Entidade](#docs_diagrama.png)
       - [Dados do Cliente (Conta e Endereço)](#dados-do-cliente-conta-e-endereço)
       - [Lojas (Loja e Range de CEP atendido)](#lojas-loja-e-range-de-cep-atendido)
       - [Cupcakes e Categorias](#cupcakes-e-categorias)
